@@ -2,4 +2,7 @@ Phyton
 
 Pascal
 Framwork
-Angular
+
+ javascript
+ Ionic
+ Flutter
