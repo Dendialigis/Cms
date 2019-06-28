@@ -1,4 +1,5 @@
 Phyton
-  *Android
+
 Pascal
 Framwork
+Angular
