@@ -1,0 +1,3 @@
+Harus Ngerti PHP,CI,LARAVEL
+Harus Ngerti JS,JQUERY,CSS
+Masih Banyak
