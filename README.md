@@ -1,2 +1,2 @@
 # Cms
-Jangan Banyak Bacot Wahai Anak Muda
+Jangan Banyak Bacot Wahai Anak Muda-_-
